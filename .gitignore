@@ -2,6 +2,9 @@
 *.jpg
 *.png
 *.jpeg
+*.pyc
 **time.txt**
 analise/metrics_df.csv
 sessoes
+*.csv
+*.pkl
